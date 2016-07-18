@@ -3,3 +3,13 @@ leaflet
 
 #served by
 http-server
+
+
+Bellingham, WA, USA
+Latitude:Copy (x,y)48.749080048° 44' 56.69'' N
+Longitude:Copy (x°,y°)-122.4781470122° 28' 41.33'' W
+
+
+http://www.bostongis.com/?content_name=postgis_tut01
+http://gisforthought.com/loading-natural-earth-data-to-postgis-postgresql/
+http://denelius.com/ol3-node-postgis/
